@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+.venv313/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Chroma vector database
+data/chroma/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
