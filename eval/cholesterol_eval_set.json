@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What foods should I avoid to lower LDL cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["saturated fat", "trans fat", "red meat", "LDL", "dietary", "avoid"],
+    "expected_answer_topics": ["saturated fats", "processed foods", "full-fat dairy"]
+  },
+  {
+    "question": "What is LDL cholesterol and why is it harmful?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["LDL", "low-density lipoprotein", "plaque", "arteries", "heart disease"],
+    "expected_answer_topics": ["LDL definition", "arterial plaque", "cardiovascular risk"]
+  },
+  {
+    "question": "What is HDL cholesterol and why is it beneficial?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["HDL", "high-density lipoprotein", "good cholesterol", "removes", "protective"],
+    "expected_answer_topics": ["HDL definition", "removes LDL", "heart protection"]
+  },
+  {
+    "question": "What are the normal cholesterol levels for adults?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["normal", "desirable", "mg/dL", "total cholesterol", "200", "borderline"],
+    "expected_answer_topics": ["total cholesterol levels", "LDL targets", "HDL targets"]
+  },
+  {
+    "question": "How does soluble fiber help lower cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["soluble fiber", "oatmeal", "LDL", "lowers", "oats", "legumes", "apples"],
+    "expected_answer_topics": ["soluble fiber mechanism", "food sources", "LDL reduction"]
+  },
+  {
+    "question": "What cholesterol medicines are commonly prescribed?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["statin", "medication", "drug", "prescription", "atorvastatin", "simvastatin"],
+    "expected_answer_topics": ["statins", "medication types", "how they work"]
+  },
+  {
+    "question": "Can exercise lower cholesterol levels?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["exercise", "physical activity", "HDL", "lower", "aerobic"],
+    "expected_answer_topics": ["exercise effect on cholesterol", "HDL increase", "recommendation"]
+  },
+  {
+    "question": "What causes high cholesterol in children and teenagers?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["children", "teens", "genetics", "family history", "diet", "obesity"],
+    "expected_answer_topics": ["pediatric cholesterol", "genetic causes", "lifestyle factors"]
+  },
+  {
+    "question": "What is a lipid panel blood test?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["lipid panel", "blood test", "total cholesterol", "LDL", "HDL", "triglycerides"],
+    "expected_answer_topics": ["lipid panel components", "fasting requirement", "frequency"]
+  },
+  {
+    "question": "What are triglycerides and how do they relate to cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["triglycerides", "fat", "blood", "high", "risk", "cholesterol"],
+    "expected_answer_topics": ["triglyceride definition", "relationship to cholesterol", "normal levels"]
+  },
+  {
+    "question": "Does eating eggs raise cholesterol levels?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["eggs", "dietary cholesterol", "saturated fat", "heart disease", "LDL"],
+    "expected_answer_topics": ["eggs and cholesterol", "dietary cholesterol impact"]
+  },
+  {
+    "question": "What are the risk factors for high cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["risk factors", "family history", "age", "obesity", "smoking", "diabetes"],
+    "expected_answer_topics": ["modifiable risk factors", "non-modifiable risk factors"]
+  },
+  {
+    "question": "How do statins work to lower cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["statins", "liver", "block", "HMG-CoA", "reduces", "LDL"],
+    "expected_answer_topics": ["mechanism of action", "liver cholesterol production", "LDL reduction"]
+  },
+  {
+    "question": "What side effects can cholesterol medications cause?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["side effects", "muscle pain", "liver", "statin", "medication"],
+    "expected_answer_topics": ["muscle side effects", "liver monitoring", "statin side effects"]
+  },
+  {
+    "question": "How often should I get my cholesterol checked?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["screening", "check", "frequency", "years", "adults", "test"],
+    "expected_answer_topics": ["screening frequency", "age recommendations", "risk-based screening"]
+  },
+  {
+    "question": "What is the relationship between cholesterol and heart disease?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["heart disease", "atherosclerosis", "plaque", "LDL", "cardiovascular"],
+    "expected_answer_topics": ["LDL and plaque buildup", "cardiovascular risk", "atherosclerosis"]
+  },
+  {
+    "question": "Can high cholesterol be inherited genetically?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["familial", "genetic", "inherited", "family history", "hereditary"],
+    "expected_answer_topics": ["familial hypercholesterolemia", "genetic causes", "family testing"]
+  },
+  {
+    "question": "What role does the liver play in cholesterol production?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["liver", "produces", "makes", "cholesterol", "80 percent", "manufacture"],
+    "expected_answer_topics": ["liver cholesterol synthesis", "dietary vs. produced cholesterol"]
+  },
+  {
+    "question": "What are plant sterols and how do they lower cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["plant sterols", "plant stanols", "block", "absorption", "lower LDL"],
+    "expected_answer_topics": ["plant sterols mechanism", "food sources", "LDL reduction amount"]
+  },
+  {
+    "question": "Is it safe to stop taking cholesterol medication without a doctor?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["stop", "discontinue", "medication", "doctor", "consult", "prescribed"],
+    "expected_answer_topics": ["medication compliance", "consulting physician", "risks of stopping"]
+  },
+  {
+    "question": "What is VLDL cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["VLDL", "very low density", "lipoprotein", "triglycerides", "liver"],
+    "expected_answer_topics": ["VLDL definition", "role in lipid transport"]
+  },
+  {
+    "question": "How does smoking affect cholesterol levels?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["smoking", "HDL", "lowers", "cardiovascular", "risk", "quit"],
+    "expected_answer_topics": ["smoking lowers HDL", "cardiovascular risk", "quitting benefits"]
+  },
+  {
+    "question": "What is the Mediterranean diet and does it help cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["Mediterranean", "olive oil", "fish", "vegetables", "heart healthy", "diet"],
+    "expected_answer_topics": ["Mediterranean diet components", "cholesterol benefits"]
+  },
+  {
+    "question": "What are omega-3 fatty acids and do they affect cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["omega-3", "fish oil", "triglycerides", "HDL", "fatty acids", "salmon"],
+    "expected_answer_topics": ["omega-3 sources", "triglyceride reduction", "HDL effect"]
+  },
+  {
+    "question": "Does obesity contribute to high cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["obesity", "weight", "overweight", "LDL", "HDL", "triglycerides"],
+    "expected_answer_topics": ["obesity and LDL", "weight loss benefits", "cholesterol improvement"]
+  },
+  {
+    "question": "What is a heart-healthy diet for cholesterol management?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["heart healthy", "diet", "fruits", "vegetables", "whole grains", "lean protein"],
+    "expected_answer_topics": ["dietary recommendations", "food to include", "portion guidance"]
+  },
+  {
+    "question": "Are there any natural supplements that lower cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["supplement", "natural", "red yeast rice", "niacin", "psyllium", "lower"],
+    "expected_answer_topics": ["supplement options", "evidence levels", "doctor consultation"]
+  },
+  {
+    "question": "What is the difference between dietary cholesterol and blood cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["dietary cholesterol", "blood cholesterol", "serum", "food", "difference"],
+    "expected_answer_topics": ["dietary vs blood cholesterol", "impact relationship"]
+  },
+  {
+    "question": "Can stress raise cholesterol levels?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["stress", "cortisol", "cholesterol", "hormones", "raises", "manage"],
+    "expected_answer_topics": ["stress and cholesterol relationship", "stress management"]
+  },
+  {
+    "question": "What is atherosclerosis and how is it related to cholesterol?",
+    "topic": "cholesterol",
+    "relevant_keywords": ["atherosclerosis", "plaque", "arteries", "LDL", "buildup", "hardening"],
+    "expected_answer_topics": ["atherosclerosis definition", "LDL plaque buildup", "consequences"]
+  }
+]

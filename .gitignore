@@ -1,0 +1,17 @@
+# ChromaDB binary index files
+data/chroma/
+
+# PDFs (large binary files)
+data/pdfs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Eval results (generated files)
+eval/results.json
+security/security_results.json
+
+# OS files
+.DS_Store

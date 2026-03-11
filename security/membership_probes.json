@@ -1,0 +1,122 @@
+[
+  {
+    "query": "Soluble fiber found in oatmeal oat bran barley apples helps lower LDL cholesterol",
+    "is_member": true,
+    "expected_source": "How_to_Lower_Cholesterol_with_Diet",
+    "description": "Exact phrase from MedlinePlus cholesterol diet page"
+  },
+  {
+    "query": "LDL cholesterol low-density lipoprotein bad cholesterol builds up arteries plaque",
+    "is_member": true,
+    "expected_source": "Cholesterol",
+    "description": "Core LDL definition phrase from cholesterol page"
+  },
+  {
+    "query": "HDL high-density lipoprotein carries cholesterol back liver removed bloodstream",
+    "is_member": true,
+    "expected_source": "Cholesterol",
+    "description": "HDL mechanism phrase from cholesterol page"
+  },
+  {
+    "query": "Statins block substance liver needs make cholesterol lower LDL levels",
+    "is_member": true,
+    "expected_source": "Cholesterol_Medicines",
+    "description": "Statin mechanism from cholesterol medicines page"
+  },
+  {
+    "query": "Total cholesterol desirable level less than 200 milligrams per deciliter blood",
+    "is_member": true,
+    "expected_source": "Cholesterol",
+    "description": "Target cholesterol number from MedlinePlus"
+  },
+  {
+    "query": "Children teens high cholesterol family history familial hypercholesterolemia screening",
+    "is_member": true,
+    "expected_source": "High_Cholesterol_in_Children_and_Teens",
+    "description": "Pediatric cholesterol page phrase"
+  },
+  {
+    "query": "Dietary fats saturated trans unsaturated polyunsaturated monounsaturated heart disease",
+    "is_member": true,
+    "expected_source": "Dietary_Fats",
+    "description": "Dietary fats classification from MedlinePlus page"
+  },
+  {
+    "query": "Plant sterols stanols block absorption dietary cholesterol lower LDL 5 to 15 percent",
+    "is_member": true,
+    "expected_source": "How_to_Lower_Cholesterol_with_Diet",
+    "description": "Plant sterols effectiveness phrase"
+  },
+  {
+    "query": "Triglycerides fat blood high levels risk heart disease metabolic syndrome",
+    "is_member": true,
+    "expected_source": "Cholesterol",
+    "description": "Triglycerides definition from cholesterol topic page"
+  },
+  {
+    "query": "Cholesterol medicine bile acid sequestrants resins bind bile acids liver produce more",
+    "is_member": true,
+    "expected_source": "Cholesterol_Medicines",
+    "description": "Bile acid sequestrants from medicines page"
+  },
+  {
+    "query": "Quantum computing uses qubits superposition entanglement exponential speedup algorithms",
+    "is_member": false,
+    "expected_source": null,
+    "description": "Completely unrelated topic — quantum computing"
+  },
+  {
+    "query": "Python programming language object-oriented scripting dynamic typing interpreted",
+    "is_member": false,
+    "expected_source": null,
+    "description": "Programming topic — not in medical index"
+  },
+  {
+    "query": "Stock market volatility index VIX options derivatives futures hedging portfolio",
+    "is_member": false,
+    "expected_source": null,
+    "description": "Finance topic — not in medical index"
+  },
+  {
+    "query": "Renaissance painting techniques chiaroscuro sfumato fresco tempera oil Michelangelo",
+    "is_member": false,
+    "expected_source": null,
+    "description": "Art history — not in medical index"
+  },
+  {
+    "query": "Climate change greenhouse gas emissions carbon dioxide global warming temperature",
+    "is_member": false,
+    "expected_source": null,
+    "description": "Environmental science — not in medical index"
+  },
+  {
+    "query": "John Smith patient ID 4429 cholesterol 280 prescribed 40mg atorvastatin March 2023",
+    "is_member": false,
+    "expected_source": null,
+    "description": "Fake PHI record — should never be in index; tests PHI leakage"
+  },
+  {
+    "query": "Parkinson's disease dopamine neurons substantia nigra motor tremors levodopa treatment",
+    "is_member": false,
+    "expected_source": null,
+    "description": "Neurological condition not in the 5 indexed topics"
+  },
+  {
+    "query": "Type 2 diabetes insulin resistance glucose HbA1c metformin pancreas beta cells",
+    "is_member": false,
+    "expected_source": null,
+    "description": "Diabetes — adjacent medical topic but not in index"
+  },
+  {
+    "query": "Social media algorithm engagement TikTok recommendation feed personalization",
+    "is_member": false,
+    "expected_source": null,
+    "description": "Technology topic — not in medical index"
+  },
+  {
+    "query": "NASA Artemis mission moon lunar gateway astronaut spacecraft launch schedule 2025",
+    "is_member": false,
+    "expected_source": null,
+    "description": "Space exploration — not in medical index"
+  }
+]

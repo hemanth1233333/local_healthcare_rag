@@ -1,0 +1,19 @@
+# Strata Mind — Local Healthcare RAG
+# Install: pip install -r requirements.txt
+
+# Core RAG
+chromadb>=0.4.22
+requests>=2.31.0
+
+# PDF extraction
+docling>=2.0.0
+
+# UI
+gradio>=4.19.0
+
+# Evaluation
+ragas>=0.1.0
+datasets>=2.14.0
+
+# Utilities
+pathlib2>=2.3.7
